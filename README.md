@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a passionate software developer with experience in Artificial Intelligence, Machine Learning, Full-Stack Software Engineering, and Data Science. I enjoy building innovative solutions and continuously learning new technologies.
+I'm a Machine Learning and Artificial Intelligence enthusiast with a proven track record in developing innovative AI solutions and optimizing system efficiency in industry and research settings. Currently interning in a dynamic ML role where I apply automation and advanced pattern recognition techniques, achieving measurable improvements in workflow efficiency. As a Research Assistant at UC Davis, I led the design and deployment of a cutting-edge TinyML project, achieving high accuracy for ECG signal classification and significantly enhancing device efficiency for wearable technology. With a diverse portfolio of projects and strong technical skills in Python, SQL, Next.js, and AWS, I am passionate about harnessing AI to drive meaningful outcomes and advance solutions in real-world applications. I am eager to contribute my expertise and innovative approach to the fast-evolving tech landscape.
 
 - 🔭 I’m currently working on **InvestIQ AI**, an AI-driven personal finance web application that offers predictive financial analysis.
 - 🌱 I’m learning Rust, Deep Learning, Qiskit and Horse Riding
