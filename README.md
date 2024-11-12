@@ -6,7 +6,7 @@ I'm a passionate software developer with experience in Artificial Intelligence, 
 
 - 🔭 I’m currently working on **InvestIQ AI**, an AI-driven personal finance web application that offers predictive financial analysis.
 - 🌱 I’m learning Rust, Deep Learning, Qiskit and Horse Riding
-- - 👯 I’m looking to collaborate on **AI, machine learning, and finance tech** projects.
+- 👯 I’m looking to collaborate on **AI, machine learning, and finance tech** projects.
 - 💬 Ask me about Quantum Computing
 - 📫 How to reach me: [vsxpatel@ucdavis.edu](mailto:vsxpatel@ucdavis.edu)
 <!--  - ⚡ Fun fact: [An Interesting Fact About You] -->
@@ -19,12 +19,12 @@ I'm a passionate software developer with experience in Artificial Intelligence, 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Frameworks and Libraries
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -36,10 +36,6 @@ I'm a passionate software developer with experience in Artificial Intelligence, 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-
-## GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Programmer7129&show_icons=true&theme=radical)
 
 ## 💼 Professional Experience
 
@@ -60,6 +56,10 @@ I'm a passionate software developer with experience in Artificial Intelligence, 
 
 - **Scream Detection System** | Python, MLP, Deep Learning, React
   - Designed a deep neural network to detect distress calls, achieving 93% accuracy by distinguishing acoustic differences.
+ 
+## GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Programmer7129&show_icons=true&theme=radical)
 
 ## Connect with Me
 
