@@ -1,4 +1,4 @@
-# Hello, I'm Vedant 👋
+# Hello, I'm Vedant Patel 👋
 
 ## About Me
 
