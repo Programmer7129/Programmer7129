@@ -39,27 +39,34 @@ I'm a Machine Learning and Artificial Intelligence enthusiast with a proven trac
 
 ## 💼 Professional Experience
 
-- **Software Engineering Intern, Drevol** (Oct 2024 – Present)
-  - Developed automation solutions in C# and .NET, optimizing core processes for a 20% efficiency boost.
-  - Implemented pattern recognition tools to improve system reliability, reducing bottlenecks by 30%.
-  - Deployed ML-driven tools on Azure DevOps, enhancing project tracking accuracy by 15%.
+- **Software Engineering Intern, Microsoft (through Drevol)** (Oct 2024 – Present)
+  - Automated software update testing workflows with a retrieval-augmented (RAG) LLM for log analysis, cutting error-triage time by 65% and improving resolution accuracy by 40%
+  - Designed AI-driven pipelines for scheduled and ad-hoc software updates, increasing test throughput by 50% and accelerating release cycles by 25%
+  - Engineered and refined automation solutions in C#, .NET, and SQL, increasing task efficiency by 20%
+  - Developed and deployed AI solutions using image recognition and NLP (Natural Language Processing), reducing manual effort by 25%
 
 - **Machine Learning Research Assistant, UC Davis** (Feb 2024 – Present)
-  - Engineered low-power algorithms for ECG classification, achieving 92.8% accuracy.
-  - Applied SHAP and LIME techniques for Deep Neural Network optimization, boosting accuracy by 7%.
+  ***Project 2:*** Health LLM for Personalized Health Insights | Reinforcement learning, LLMs
+  - Spearheaded development of a Health LLM that aggregates temporal, multi-dimensional health data—improving prediction precision by 92% and reducing response latency by 30%.
+  - Engineered scalable data pipelines using Apache NiFi to convert raw health data into FHIR JSON schema, increasing processing throughput by 25% and enabling seamless integration from diverse sources.
+  ***Project 1:*** TinyML for ECG Classification & Anomaly Detection
+  - Engineered energy-efficient ECG classification using a quantized TinyML Random Forest (92.8% accuracy) and an event-driven architecture with adaptive burst-mode data collection, extending wearable battery life from 14 days to over a month.
+  - Enhanced anomaly detection to 93.6% accuracy via advanced feature engineering and strategic hyperparameter tuning with GridSearchCV on resource-constrained devices.
+  - Optimized deep learning for time-series data using SHAP and LIME, achieving a 7% accuracy boost and enabling hybrid offloading of complex multilabel classification to server-side CNN and XGBoost models for comprehensive health monitoring.
 
 ## 🚀 Projects
 
-- **InvestIQ AI** | Next.js, TailwindCSS, Vercel, NLP
+- **CorpCred** [Visit](https://corpcred.vercel.app) | NextJS, TailwindCSS, Vercel, Render Oct 2024 – Jan 2025
+  - Engineered a full-stack web app with a Random Forest model to predict corporate credit ratings, boosting accuracy by 15% and cutting latency by 30%
+
+- **InvestIQ AI** [Visit](https://investiqai.vercel.app) | Next.js, TailwindCSS, Vercel, NLP
   - Developed a predictive finance app with 90% accuracy, helping users optimize their portfolio performance by up to 15%.
   - Integrated an intelligent chatbot with a 95% query resolution rate and data visualizations that cut decision-making time by 30%.
 
+- Dog Breed Classification [Visit](ecs170.onrender.com) | Python, Render, MobileNetV2
+
 - **Scream Detection System** | Python, MLP, Deep Learning, React
   - Designed a deep neural network to detect distress calls, achieving 93% accuracy by distinguishing acoustic differences.
- 
-## GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Programmer7129&show_icons=true&theme=radical)
 
 ## Connect with Me
 
