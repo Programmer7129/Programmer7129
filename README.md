@@ -46,9 +46,11 @@ I'm a Machine Learning and Artificial Intelligence enthusiast with a proven trac
   - Developed and deployed AI solutions using image recognition and NLP (Natural Language Processing), reducing manual effort by 25%
 
 - **Machine Learning Research Assistant, UC Davis** (Feb 2024 – Present)
+
   ***Project 2:*** Health LLM for Personalized Health Insights | Reinforcement learning, LLMs
   - Spearheaded development of a Health LLM that aggregates temporal, multi-dimensional health data—improving prediction precision by 92% and reducing response latency by 30%.
   - Engineered scalable data pipelines using Apache NiFi to convert raw health data into FHIR JSON schema, increasing processing throughput by 25% and enabling seamless integration from diverse sources.
+  
   ***Project 1:*** TinyML for ECG Classification & Anomaly Detection
   - Engineered energy-efficient ECG classification using a quantized TinyML Random Forest (92.8% accuracy) and an event-driven architecture with adaptive burst-mode data collection, extending wearable battery life from 14 days to over a month.
   - Enhanced anomaly detection to 93.6% accuracy via advanced feature engineering and strategic hyperparameter tuning with GridSearchCV on resource-constrained devices.
