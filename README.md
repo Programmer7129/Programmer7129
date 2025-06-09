@@ -2,7 +2,47 @@
 
 ## About Me
 
-I'm a Machine Learning and Artificial Intelligence enthusiast with a proven track record in developing innovative AI solutions and optimizing system efficiency in industry and research settings. Currently interning in a dynamic ML role where I apply automation and advanced pattern recognition techniques, achieving measurable improvements in workflow efficiency. As a Research Assistant at UC Davis, I led the design and deployment of a cutting-edge TinyML project, achieving high accuracy for ECG signal classification and significantly enhancing device efficiency for wearable technology. With a diverse portfolio of projects and strong technical skills in Python, SQL, Next.js, and AWS, I am passionate about harnessing AI to drive meaningful outcomes and advance solutions in real-world applications. I am eager to contribute my expertise and innovative approach to the fast-evolving tech landscape.
+I’m a **Computer Science senior at UC Davis** with deep expertise in building scalable, cloud-native AI systems. As a Software Engineering Intern, I’ve architected containerized, load-balanced pipelines using RAG-based LLMs on Azure and AWS. In my UC Davis research role, I led TinyML and Health-LLM initiatives—delivering a quantized ECG anomaly detector (IEEE ISCAS accepted) and a personalized Health LLM via fault-tolerant, event-driven data pipelines.
+
+---
+
+## 🔑 Key Expertise & Technologies
+
+### ☁️ Cloud & Infrastructure
+- AWS (EC2, S3, Lambda, ECS/EKS)  
+- Azure (VMs, Functions, AKS)  
+- GCP (Compute Engine, Cloud Functions)  
+- Terraform, CloudFormation  
+- Docker, Kubernetes, Serverless Architectures  
+- Load Balancing, CDN  
+
+### 🤖 AI/ML & Data Engineering
+- Core ML models, RAG-based LLMs, TinyML (edge-computing)  
+- PyTorch, TensorFlow, XGBoost, SHAP, LIME  
+- Apache NiFi, FHIR, Kafka  
+- GridSearchCV, Multilabel Classification  
+- Event-Driven Data Pipelines  
+
+### 🛠️ Backend & Microservices
+- C#, .NET Core, Python (Flask, Django)  
+- Node.js, SQL (PostgreSQL, SQL Server)  
+- NoSQL (MongoDB), Prisma  
+- Microservices, RESTful & gRPC APIs  
+- CI/CD (GitHub Actions), Containerized Workflows  
+
+### 🌐 Frontend & Web
+- Next.js, React, Tailwind CSS  
+- HTML5/CSS3, JavaScript/TypeScript  
+- Responsive UI, Vercel, Render  
+
+### 🔧 Developer Tools & Collaboration
+- Git & GitHub, Docker Compose, JIRA  
+- VS Code, PyCharm, Eclipse, Jupyter  
+- CI/CD Pipelines, Agile/Scrum Practices  
+
+---
+
+I’m passionate about microservices, serverless architectures, and advanced data engineering to drive measurable impact—building robust ML pipelines, automating workflows, and deploying high-availability services. **Let’s connect!**
 
 - 🔭 I’m currently working on **InvestIQ AI**, an AI-driven personal finance web application that offers predictive financial analysis.
 - 🌱 I’m learning Rust, Deep Learning, Qiskit and Horse Riding
